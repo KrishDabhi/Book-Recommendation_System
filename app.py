@@ -120,7 +120,7 @@ if __name__ == "__main__":
     #recommendation
     if st.button('Show Recommendation'):
         obj.recommendations_engine(selected_books)
-=======
+
 from Book_Recommendation_System.exception.exception_handler import AppException
 import sys 
 from Book_Recommendation_System.logger.log import logging
