@@ -103,13 +103,13 @@ class Recommendation:
 
 
 if __name__ == "__main__":
-    st.header('End to End Books Recommender System')
+    st.header('Books Recommendation System')
     st.text("This is a collaborative filtering based recommendation system!")
 
     obj = Recommendation()
 
     #Training
-    if st.button('Train Recommender System'):
+    if st.button('Train Recommendation System'):
         obj.train_engine()
 
     book_names = pickle.load(open(os.path.join('templates','book_names.pkl') ,'rb'))
