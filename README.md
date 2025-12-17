@@ -72,6 +72,24 @@ Run the app:
 streamlit run app.py
 ```
 
+# Streamlit app Docker Image
+
+## 1. Login with your AWS console and launch an EC2 Instance
+## 2. Run the following commands 
+
+Note: Do the port mapping to this port:- 8520
+
+```bash
+sudo apt-get update  -y
+sudo apt-get upgrade
+
+#Install Docker
+
+curl -fsSL https://get.docker.com -o get-docker.sh
+
+sudo sh get-docker.sh
+
+
 ---
 
 ## 📊 Dataset
