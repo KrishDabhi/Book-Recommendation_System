@@ -4,7 +4,7 @@ Understood. Here’s the **visual and GitHub-profile appealing version** of the 
 
 # 📚 End-to-End Book Recommendation System
 
-[![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12.3-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Framework-Flask%2FStreamlit-green)]()
 [![License](https://img.shields.io/badge/License-MIT-orange.svg)](./LICENSE)
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)]()
@@ -15,9 +15,9 @@ Understood. Here’s the **visual and GitHub-profile appealing version** of the 
 
 An **end-to-end Book Recommendation System** that helps users explore and discover books tailored to their interests.
 
-🔹 Combines **NLP techniques** with **collaborative filtering**
-🔹 Generates **personalized suggestions** in real-time
-🔹 Integrates a **machine learning pipeline** with a **web interface**
+🔹 Combines **Machine Learning Algorithms (Unsupervised Learning)** with **collaborative filtering**
+🔹 Generates **personalized suggestions** in real-time based on the Book-Name
+🔹 Integrates a **Machine Learning Pipeline** with a **web interface** using Streamlit
 🔹 Scalable design suitable for **large datasets**
 
 This repository includes **data preprocessing, feature engineering, model training, deployment scripts, and unit tests** for seamless reproduction and extension.
