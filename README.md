@@ -100,7 +100,7 @@ git clone "your-project"
 ```
 
 ```bash
-docker build -t entbappy/stapp:latest . 
+docker build -t entbappy/bookapp:latest . 
 ```
 
 ```bash
