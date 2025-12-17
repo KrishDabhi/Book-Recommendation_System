@@ -1,4 +1,4 @@
-from python:3.12.3-slim-buster
+from python:3.7-slim-buster
 
 EXPOSE 8502
 
