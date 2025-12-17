@@ -33,6 +33,17 @@ This repository includes **data preprocessing, feature engineering, model traini
 
 ---
 
+## Workflow 
+
+- config.yaml
+- entity
+- conifig/configuration.py
+- components
+- pipeline 
+- main.py
+- app.py
+
+
 ## 🚀 Quick Start
 
 Clone the repository:
