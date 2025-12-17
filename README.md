@@ -69,10 +69,8 @@ pip install -r requirements.txt
 Run the app:
 
 ```bash
-python app.py
+streamlit run app.py
 ```
-
-🌐 Visit: `http://127.0.0.1:5000/`
 
 ---
 
