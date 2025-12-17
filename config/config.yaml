@@ -22,3 +22,6 @@ data_transformation_config:
 model_trainer_config:
   trained_model_dir: trained_model
   trained_model_name: model.pkl
+
+recommedation config:
+  poster_api_url : https://api.themoviedb.org/3/movie/{}?api_key=b5be70cce77dc0d503b26c2573a9e54d&language=en-US
