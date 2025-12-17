@@ -108,7 +108,7 @@ docker images -a
 ```
 
 ```bash
-docker run -d -p 8501:8501 krishdabhi/stapp 
+docker run -d -p 8501:8501 krishdabhi/bookapp 
 ```
 
 ```bash
