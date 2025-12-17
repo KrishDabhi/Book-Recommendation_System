@@ -162,14 +162,16 @@ docker pull entbappy/stapp
 ## 📂 Project Structure
 
 ```
-📦 End-to-End-Book-Recommendation-System
- ┣ 📂 data/              # Raw & processed datasets  
- ┣ 📂 notebooks/         # Jupyter notebooks (EDA & experiments)  
- ┣ 📂 src/               # Core code: preprocessing, models, utils  
- ┣ 📂 tests/             # Unit tests  
- ┣ 📜 app.py             # Main web application  
- ┣ 📜 requirements.txt   # Dependencies  
- ┗ 📜 README.md          # Documentation  
+📦 Book-Recommendation-System
+ ┣ 📂 artifacts/                            # contains trained models  
+ ┣ 📂 Book Recommendation System/           # Entire CI/CD pipeline for modular coding    
+ ┣ 📂 notebook/                             # Research and data cleaning and experimenting with data  
+ ┣ 📂 template/                             # stores book_names trained model 
+ ┣ 📜 app.py                                # application file  
+ ┣ 📜 main.py                               # Main web application  
+ ┣ 📜 setup.py                              # contains various setup configurations  
+ ┣ 📜 template.py                           # Makes the folder structure of production  
+ ┗ 📜 README.md                             # Documentation  
 ```
 
 ---
