@@ -56,7 +56,7 @@ cd End-to-End-Book-Recommendation-System
 Create and activate conda environment:
 
 ```bash
-conda create -n books python=3.9 -y
+conda create -n books python=3.12.3 -y
 conda activate books
 ```
 
